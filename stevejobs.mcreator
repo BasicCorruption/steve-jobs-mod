@@ -1,0 +1,42 @@
+{
+  "mod_elements": [
+    {
+      "name": "SteveJobs",
+      "type": "livingentity",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steve_jobs"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.stevejobs.steve_jobs_spawn_egg": "Steve Jobs Spawn Egg",
+      "entity.stevejobs.steve_jobs": "Steve Jobs"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "stevejobs",
+    "modName": "steve-jobs",
+    "version": "0.0.1",
+    "author": "sidgames5",
+    "websiteURL": "https://basiccorruption.github.io",
+    "license": "Creative Commons Attribution-NonCommercial 3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": true,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "modElementsPackage": "io.github.basiccorruption.stevejobs",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}

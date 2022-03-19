@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[37,)"
+license="Creative Commons Attribution-NonCommercial 3.0"
+
+[[mods]]
+modId="stevejobs"
+version="0.0.1"
+displayName="steve-jobs"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://basiccorruption.github.io"
+authors="sidgames5"
+
+[[dependencies.stevejobs]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.17.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
